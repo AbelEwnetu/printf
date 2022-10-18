@@ -15,6 +15,6 @@
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 
   <p> The project is made by 
-  [Abel Taye].(https://github.com/AbelEwnetu)
-  and [ Limaat Tewelde ].(https://github.com/Golimaat)
+  .[Abel Taye].(https://github.com/AbelEwnetu)
+  and .[ Limaat Tewelde ].(https://github.com/Golimaat)
 <img src = "https://tinyurl.com/3fy4kbmb" width = 300>
