@@ -14,5 +14,7 @@
   <h3> Compilation </h3>
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 
-  <p> The project is made by <strong> Abel Taye </strong> and <strong> Limaat Tewelde </strong>
+  <p> The project is made by <strong> Abel Taye </strong>
+  [].(github.com/AbelEwnetu/)
+  and <strong> Limaat Tewelde </strong>[].(github.com/Golimaat/)
 <img src = "https://tinyurl.com/3fy4kbmb" width = 300>
