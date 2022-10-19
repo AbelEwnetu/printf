@@ -13,7 +13,7 @@
 </ul>
   
   <p> The project holds two mandatory tasks and 14 advanced ones </p>
-  <p> Authurs: <strong> Abel Taye </strong> at</p> <a src="https://github.com/AbelEwnetu/printf">AbelEwnetu</a>  <p> and  <strong> Limaat Tewelde </strong> at </p> <a src="https://github.com/Golimaat/Golimaat">Golimaat</a>
+  <p> Authurs: <strong> Abel Taye </strong> at <a href="https://github.com/AbelEwnetu/printf">AbelEwnetu</a> and  <strong> Limaat Tewelde </strong> at <a href="https://github.com/Golimaat/Golimaat">Golimaat</a>
 
 <img src="https://img.freepik.com/premium-vector/team-work-concept-illustration-two-young-woman-doing-completing-project-tasks-together-using-laptop_204997-118.jpg?w=2000" width =500>
    
